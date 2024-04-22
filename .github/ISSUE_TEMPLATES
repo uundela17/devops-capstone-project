@@ -1,0 +1,18 @@
+**As a** DevOps Engineer 
+**I need** Customer Accounts Microservice
+**So that** I complete DevOps Capstone Project
+      
+### Details and Assumptions 
+    * Create a GitHub repository
+    * Add a GitHub repository to a Zenhub kanban board
+    * Develop a user story template
+    * Add user stories to a kanban board
+    * Sort user stories to prepare for backlog refinement
+    * Refine a product backlog to make it sprint ready
+    
+Build a sprint plan     
+### Acceptance Criteria     
+    gherkin 
+    Given DevOps Capstone Project repository template
+    When GitHub and Zenhub account created
+    Then refine product backlog 
