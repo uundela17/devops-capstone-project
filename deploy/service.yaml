@@ -1,0 +1,4 @@
+oc expose deploy accounts \
+  --type=ClusterIP \
+  --port=8080 \
+  --dry-run=client -o yaml > deploy/service.yaml
